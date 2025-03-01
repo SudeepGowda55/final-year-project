@@ -1,0 +1,33 @@
+{
+       "eventVersion": "1.08",
+       "userIdentity": {
+           "type": "Root",
+           "principalId": "444455556666",
+           "arn": "arn:aws:iam::444455556666:root",
+           "accountId": "444455556666",
+           "accessKeyId": "EXAMPLEAOTKEG44KPW5P",
+           "sessionContext": {
+               "sessionIssuer": {},
+               "webIdFederationData": {},
+               "attributes": {
+                   "creationDate": "2022-11-25T13:01:14Z",
+                   "mfaAuthenticated": "false"
+               }
+           }
+       },
+       "eventTime": "2022-11-25T13:01:14Z",
+       "eventSource": "iam.amazonaws.com",
+       "eventName": "ChangePassword",
+       "awsRegion": "us-east-1",
+       "sourceIPAddress": "192.0.2.0",
+       "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36",
+       "requestParameters": null,
+       "responseElements": null,
+       "requestID": "c64254c2-e4ff-49c0-900e-EXAMPLE9e6d2",
+       "eventID": "d059176c-4f4d-4a9e-b8d7-EXAMPLE2b7b3",
+       "readOnly": false,
+       "eventType": "AwsApiCall",
+       "managementEvent": true,
+       "recipientAccountId": "444455556666",
+       "eventCategory": "Management"
+   }
