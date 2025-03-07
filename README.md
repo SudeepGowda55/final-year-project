@@ -16,3 +16,9 @@ Implant Execution cmd:
 ```beacons```
 
 ```use {beacon id}```
+
+```interactive```
+
+```sessions```
+
+ ```use {session id}```
